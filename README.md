@@ -85,7 +85,7 @@ redis 127.0.0.1:6379>
 # *to install sphero run this commands*
 
 ```sh
-git clone https://github.com/3pehrdev/Sphero
+git clone https://github.com/pekkahacker/Sphero
 
 cd Sphero
 
